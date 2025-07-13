@@ -1,0 +1,3 @@
+tasks:
+  - init: ./mvnw clean install
+    command: ./mvnw spring-boot:run
